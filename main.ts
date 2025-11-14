@@ -1,6 +1,3 @@
-function doSomething () {
-    return 0
-}
 let i = 0
 let buffer: Buffer = Buffer.create(0)
 namespace ZETag{
