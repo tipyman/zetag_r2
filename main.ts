@@ -1,6 +1,6 @@
 let i = 0
 let buffer: Buffer = Buffer.create(0)
-namespace ZETag{
+namespace ZETag_R2{
     let Para_array: number[] = []
     let ch_spacing = 0
     let CheckSum = 0
